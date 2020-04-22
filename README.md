@@ -73,3 +73,13 @@ As a landlord,
 So that I don't miss out on business if a customer cancels,
 Until a user has confirmed a booking request, that space should remain available to other users.
 ```
+
+## To make a new database 
+In psql
+
+1) CREATE DATABASE Space;
+
+2) CREATE TABLE spaces(id  SERIAL PRIMARY KEY, name VARCHAR(50), price VARCHAR(20), description VARCHAR(500), startDate VARCHAR(30), endDate VARCHAR(30), landlordID VARCHAR(30));
+
+
+3) 
