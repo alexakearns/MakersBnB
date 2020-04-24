@@ -1,6 +1,6 @@
 'use strict';
 
-// describe('Space', function () {
+describe('Space', function () {
 //     var Space = require('../../lib/jasmine_examples/space')
 //     var space;
 //     beforeEach(function() {
@@ -37,4 +37,4 @@
 //             })
 //         })
 
-// })
+})
