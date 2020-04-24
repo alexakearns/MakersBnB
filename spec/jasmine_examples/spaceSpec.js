@@ -13,9 +13,9 @@ describe('Space', function () {
         })
     })
         describe('.description adds a description', function() {
-            //it('returns the description', function() {
-                //expect(space.description).toBe('The super creepy, bat infested attic');
-            //})
+            it('returns the description', function() {
+                expect(space.description).toBe('The super creepy, bat infested attic');
+            })
     
         })
 
