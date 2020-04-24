@@ -1,4 +1,4 @@
-// 'use strict';
+'use strict';
 
 // describe('Space', function () {
 //     var Space = require('../../lib/jasmine_examples/space')
