@@ -2,10 +2,10 @@
 
 describe('Space', function () {
     var Space = require('../../lib/jasmine_examples/space')
-    var space;
-    beforeEach(function() {
-        space = new Space('The Attic', 'The super creepy, bat infested attic', 21, 'Mon Oct 13 2014', 'Tue Oct 14 2014');
-    })
+    // var space;
+    // beforeEach(function() {
+    //     space = new Space('The Attic', 'The super creepy, bat infested attic', 21, 'Mon Oct 13 2014', 'Tue Oct 14 2014');
+    // })
 
 //     describe('.name adds a name', function() {
 //         it('returns the spaces name', function() {
