@@ -12,12 +12,12 @@ describe('Space', function () {
             expect(space.name).toBe('The Attic');
         })
     })
-    //     describe('.description adds a description', function() {
-    //         it('returns the description', function() {
-    //             expect(space.description).toBe('The super creepy, bat infested attic');
-    //         })
+        describe('.description adds a description', function() {
+            it('returns the description', function() {
+                expect(space.description).toBe('The super creepy, bat infested attic');
+            })
     
-    //     })
+        })
 
     //     describe('.price adds daily price', function() {
     //         it('returns price per day', function() {
